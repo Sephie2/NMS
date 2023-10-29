@@ -48,12 +48,11 @@ Naming Conventions:
 - buy Blueprints for **Advanced Mining Laser, and optionally Teleport Receiver, Waveform Recycler, Shield Lattice**
 - if not, those can be bought in the Anomaly later
 
-
 - **build first base module, deploy it, interact with it**
 - when building the first base, there is going to be another big storm. We only need to stand under a roof to avoid damage
 - **build Research Unit**
-	- buy Blueprints: Base Teleport Module, etc.
-- Built Base Teleporter, 2 Batteries, 2 Solar Cells, and Biofuel Reactor and connect them. Put 10 Carbon into the Reactor for quest
+	- buy Blueprints: **Base Teleport Module, etc.**
+- Built Base Teleporter, 2 Batteries, 2 Solar Cells, and Biofuel Reactor and connect them. Put 10 Carbon into the Reactor for quest, then scrap the Reactor. 
 - Quest sends you to Space Station
 
 ### First Space Station Visit
@@ -82,7 +81,7 @@ There are 3 Alien Races. Geck, Korvack, Viking. Visit a system from a different 
 	- Talk to Selene, the Haz-Mat Suit Vendor and **buy Haz-Mat Gauntlets, Personal Refiner and Neural Stimulator**
 	- Hyperion is the Starship Module Dealer. Buy **Economy Scanner, Positron Ejector, Fragment Supercharge, Ablative Armor, Efficient Thrusters, Launch Autocharger, optionally: Cadmium Drive, Emerald Drive, Indium Drive**
 	- Ios the Multi-Tool-Upgrade Vendor. Buy **Amplified Cartidges**
-	- Construction Research: Medium Refiner, Large Refiner, GTN Terminal, Roamer Geobay, Electrical Cloaking Unit, etc. 
+	- Construction Research: **Medium Refiner, Large Refiner, GTN Terminal, Electrical Cloaking Unit, etc. **
 
 Tipp: Irradiated Planets have underwater plants that usually have Oxygen as secondary drop. Scan, then shoot from ship
 
@@ -94,20 +93,41 @@ Build 3 Medium Refiners and 2 Large Refiners
 Make and sell Chlorine and Ionized Cobalt until about 30 Million Credits. Buy a little  S class ship 
 - make Ionized Cobalt, and turn Ionized Cobalt into more cobalt, etc. until we get about 8 or more stacks of Cobalt to crash markets
 - upgrade Hyperdrive and make a bunch of Warp Cells
- 
-### The Galactic Economy Crash Loop
+
+### Easy Credits and Nanites
+- upgrade the Multi-Tool Scanner with 3 S-Class upgrades, bought from scanning all animals on a few planets (rewards 1500-3000 nanites)
+- the upgrades will increase credit payout. Try to use a supercharged slot to supercharge one of those, and get +30.000% payout on all the things, then scan little rocks for 150.000 credits per rock. 
+- This way you can take your time exploring all the planets in each system
+
+### Very Fast Exo-suit upgrading without warping 50 times
+- needs an Exocraft unlocked, which should happen very early on after building the first base; continue the main story, then click on the Base Main Computer to start a new quest to uncover more archive data. This quest will include the first Exocraft blueprint. 
+- go to the Anomaly and buy the Scanner and Advanced Scanner upgrades (costs Nanites)
+- back on the Planet, with the Exocraft Station build on your base, summon or go to your Exocraft. In it, go to Scanner -> Scan for Pod -> go there and repair it, to get a new technology or cargo slot for your Exosuit -> Repeat. 
+
+### Best Ship Weapons
+Positron Ejector ("Shotgun") and Infra-Knife-Accelerator ("Knifes go brrrrrrrrr"). Since weapon mods are additive, it is much better to add **The Weapon itself** to a supercharged slot. 
+
+### Best Multitool Weapons
+Scatter Blaster ("Shotgun"), Pulse Blaster ("Shots go brrrrrrrr") are the most powerful, but use Ammunition. 
+
+### The Classic: The Galactic Economy Crash Loop
+**Pre-Requisites**
+- Requires ~8 or 9 full stacks (9999) of Cobalt. To get this, we need at least 40.000 Oxygen. To get there, find a planet that contains Oxygen, see [Planetary Resources]. Find an Oxygen Hotspot at level C or higher. Don't bother looking for A or S class hotspot. Build a base nearby and 2 stacks of 4 Gas Harvesters on top of each other (for a total of 8). Each Harvester gets one battery and 2 solar cells, as well as 10 to 15 Resource Storage. Metal Plates can be bought in space stations and the traders there. 
+- We also need about 1000+ Cobalt to start with, found usually in underground rocks. 
+- Refine 2 Cobalt + 2 Oxygen to 5 Ionized Cobalt
+- Refine 1 Ionized Cobalt + 1 Oxygen = 6 Ionized Cobalt
+- now can multiply Ionized Cobalt by adding Oxygen until we have 4 or 5 stacks of Ionized Cobalt. 
+- Refine the Ionized Cobalt (without Oxygen) to twice that amount of Cobalt. 
+- Since the GTN in every station also sells Cobalt, we can sell our stacks to crash the economy, then buy it back, also visiting traders. 
+
 - summon space anomaly
+	- Go to Anomaly, upgrade Exo-suite
 - Space Station -> Upgrade Technology or Cargo Slots
 	- upgrade Exo-Suite Slot
 	- check upgrade module vendors for S class Modules. Get 3 S-Class Hyperdrive Modules for Ship, 3 Pulse-Engine Modules
 	- check multi-tool cabinet
 	- check back-room for travelers
 	- loot items that are lying around, like glowing cubes and disks
-
-	- Each full Stack of Cobalt will lower the local Economy by about 10%. Sell 8 Stacks or more, then buy it all back for super cheap 
-	- After the Market Crash, buy more Cobalt from Station Vendors (ship guys)
-
-	- Go to Anomaly, upgrade Exo-suite
 
 - At around 50+ Million, start buying cheap B, A and S-Class Ships. Salvage the components inside, then sell ship and modules for nanites. Can result in **Storage Augmentations**. Never sell those
 
@@ -140,13 +160,13 @@ Back to Galactic Economy Crash Loop. Until we collect all the Traveler Glyphs
 
 
 S-Class Multi-Tool: 
-![](img/Pasted%20image%2020231018204222.png)
+![](700%20-%20Ressources/705%20-%20Games/No%20Mans%20Sky/img/Pasted%20image%2020231018204222.png)
 - hop in ship and straight up, looking at the portal. look back down, right side of the ring is a bunch of comm-beacons.
 - There should be a base: Communication Station. Go there, then to the right side, up a hill, is another station with a bunch of beacons. 
 - go in to the weapon terminal
 
 And another (in space station)
-![](img/ancient%20glyph%20portal%20address%20for%20s-class%20exotool.png)
+![](700%20-%20Ressources/705%20-%20Games/No%20Mans%20Sky/img/ancient%20glyph%20portal%20address%20for%20s-class%20exotool.png)
 
 
 ### The Freighter upgrades
@@ -160,8 +180,8 @@ And another (in space station)
 - Remove all the rooms in the Freighter
 - Go to Center console in Freighter to buy the Modules
 
-![](img/Pasted%20image%2020231018205050.png)
-![](img/Pasted%20image%2020231018205233.png)
+![](700%20-%20Ressources/705%20-%20Games/No%20Mans%20Sky/img/Pasted%20image%2020231018205050.png)
+![](700%20-%20Ressources/705%20-%20Games/No%20Mans%20Sky/img/Pasted%20image%2020231018205233.png)
 
 
 Layout: 
@@ -175,3 +195,12 @@ Layout:
 - 3-4 Fleet Command Rooms near front of Freighter
 - 3-5 Stellar Material Extractors
 - Orbital Exocraft Materializer somewhere
+
+Refining Plants: 
+- Frost Crystal + Dioxide = 2 Frost Crystal
+- Gamma Root + Uranium = 2 Gamma Root
+- Star Bulb + Paraffinium = 2 Star Bulb
+- Fungal Mold + Ammonia = 2 Fungal Mold
+- Solanium + Phosphorus = 2 Solanium
+- Cactus Flesh + Pyrite = 2 Cactus Flesh
+- Faecium + Oxygen = 2 Faecium -> Mordite (+ Carbon+) = 4 Faecium
