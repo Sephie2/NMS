@@ -160,13 +160,13 @@ Back to Galactic Economy Crash Loop. Until we collect all the Traveler Glyphs
 
 
 S-Class Multi-Tool: 
-![](700%20-%20Ressources/705%20-%20Games/No%20Mans%20Sky/img/Pasted%20image%2020231018204222.png)
+![](img/Pasted%20image%2020231018204222.png)
 - hop in ship and straight up, looking at the portal. look back down, right side of the ring is a bunch of comm-beacons.
 - There should be a base: Communication Station. Go there, then to the right side, up a hill, is another station with a bunch of beacons. 
 - go in to the weapon terminal
 
 And another (in space station)
-![](700%20-%20Ressources/705%20-%20Games/No%20Mans%20Sky/img/ancient%20glyph%20portal%20address%20for%20s-class%20exotool.png)
+![](img/ancient%20glyph%20portal%20address%20for%20s-class%20exotool.png)
 
 
 ### The Freighter upgrades
@@ -180,8 +180,8 @@ And another (in space station)
 - Remove all the rooms in the Freighter
 - Go to Center console in Freighter to buy the Modules
 
-![](700%20-%20Ressources/705%20-%20Games/No%20Mans%20Sky/img/Pasted%20image%2020231018205050.png)
-![](700%20-%20Ressources/705%20-%20Games/No%20Mans%20Sky/img/Pasted%20image%2020231018205233.png)
+![](img/Pasted%20image%2020231018205050.png)
+![](img/Pasted%20image%2020231018205233.png)
 
 
 Layout: 
